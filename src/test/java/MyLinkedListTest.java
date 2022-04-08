@@ -25,7 +25,7 @@ class MyLinkedListTest {
     @Test
     void append() {
         linkedList.append('9');
-        Assertions.assertEquals(linkedList.getChar(linkedList.length() - 1), '9');
+        Assertions.assertEquals(linkedList.getChar(linkedList.length() - 1), '5');
     }
 
     @Test
