@@ -1,6 +1,4 @@
 # Lab2-Unit-tests
-## Varian
-My variant is unilaterally linked ring list
 
 ## Installation
  ```bash
