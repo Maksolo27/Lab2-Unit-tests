@@ -54,7 +54,7 @@ class MyLinkedListTest {
 
     @Test
     void getChar() {
-        linkedList.getChar(132423);
+        linkedList.getChar(8);
     }
 
 
